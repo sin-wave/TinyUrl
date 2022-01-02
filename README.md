@@ -19,9 +19,9 @@
 ## How to used this code:
 
 ```sh
-# 1 - intall(pip intsall virtualenv)
-# 2 - create enivornment (virtual env)
-# 3 - Activate enivornment
+# 1 - install(pip install virtualenv)
+# 2 - create environment (virtual env)
+# 3 - Activate environment
 # 4 - Install required library(pip install -r requirements.txt)
 # 5 - Run by (python app.py)
 ```
